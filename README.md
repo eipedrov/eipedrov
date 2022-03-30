@@ -1,17 +1,29 @@
-<h1 align="center">Eae 👋, seja bem-vindo(a) 🚀</h1>
-<h3 align="center">Computer Science Student | Web Developer | Graphic Designer </h3>
+# Olá, que bom ter você por aqui, me chamo Pedro Vinícius!🚀
 
+Sempre fui apaixonado pelos avanços tecnológicos e suas 
+infinitas possibilidades ❤️!  
+Estudando desenvolvimento Front-End. Typescript, NextJS, ReactJS👨‍💻   
+Atualmente sou Aluno do curso de Ciências da Computação na Universidade Federal de Roraima (UFRR)💻  
+No meu Github tem vários projetos que faço para praticar programação  
+voltada para Front-End🌐  
 
-- 🌱 Atualmente estudo sobre **Desing e Desenvolvimento Web**
+## Github Stats and Most used languages
 
-- 📫 Qualquer coisa, manda um e-mail **silvapv7@gmail.com**
+![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugolima03&show_icons=true&theme=outrun)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugolima03&layout=compact&theme=outrun&cache_seconds=1800&exclude_repo=BikcraftCMS&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Connect with me:</h3>
+## Skills
+
 <p align="left">
-<a href="www.linkedin.com/in/eipedrov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Pedro Vinícius" height="30" width="40" /></a>
-<a href="https://www.instagram.com/eipedrov/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="eipedrov" height="30" width="40" /></a>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+“O ontem é história, o amanhã é um mistério, mas hoje é uma dádiva, por isso chama-se presente.“  
 
